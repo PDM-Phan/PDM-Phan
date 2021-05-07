@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Pedro de Deus e Melo and im a student of the UFRPE(Rural Federal University of Pernambuco);
+- 👋 Hi, my name is Pedro de Deus e Melo and im a student of the UFRPE (Rural Federal University of Pernambuco);
 - 👀 I’m interested in almost anything and looking to learn everything I can;
 - 🌱 I’m currently learning JavaScript;
 - 💞️ I’m looking to collaborate on everything I can;
