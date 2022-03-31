@@ -9,8 +9,8 @@ Currently learning:
   <li>database(SQL) and</li>
   <li>HTML and CSS.</li>
 </ul>
-You can reach me:<a hrefs="www.linkedin.com/in/pedro-melo-22b4a1235">Linkedin account</a>
+You can reach me:
 <ul>
-  <li><a hrefs="www.linkedin.com/in/pedro-melo-22b4a1235">Linkedin account</a></li>
-  <li><a hrefs="pedroddemelo@gmail.com">Email</a></li>
+  <li><a hrefs="https://www.linkedin.com/in/pedro-melo-22b4a1235/">Linkedin</a></li>
+  <li>Email : pedroddemelo@gmail.com</li>
 </ul>
