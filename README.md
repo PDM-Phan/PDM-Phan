@@ -1,13 +1,7 @@
-👋 Hi, my name is Pedro de Deus e Melo and im a student of the UFRPE (Rural Federal University of Pernambuco); looking to learn everything i can to be a better professional.
+###👋 Hello There!
 
+My name is Pedro de Deus e Melo and im a student of the UFRPE (Rural Federal University of Pernambuco); looking to learn everything i can to be a better Full-Stack developer.
 
-Im quite decent with Python but as you can see in my profile but im always looking to improve myself.
+Im quite decent with Python, currently learning Python(Django), database(SQL) and HTML and CSS.
 
-
-You can reach me with this email, pedroddemelo@gmail.com.
-
-
-<!---
-PDM-Phan/PDM-Phan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can reach me with this email: pedroddemelo@gmail.com or by  my [Linkedin Profile](www.linkedin.com/in/pedro-melo-22b4a1235)
