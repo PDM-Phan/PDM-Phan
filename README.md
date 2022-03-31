@@ -12,7 +12,7 @@ Currently learning:
 You can reach me:
 <ul>
   <li>
-    <a hrefs="https://www.linkedin.com/in/pedro-melo-22b4a1235/">Linkedin</a>
+    <a href="https://www.linkedin.com/in/pedro-melo-22b4a1235/">Linkedin</a>
   </li>
   <li>Email : pedroddemelo@gmail.com</li>
 </ul>
