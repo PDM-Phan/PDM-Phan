@@ -4,8 +4,7 @@ My name is <b>Pedro de Deus e Melo</b> and im a student of the UFRPE (Rural Fede
 
 Im quite decent with Python and im currently learning:
 <ul>
-  <li>Python(Django);</li>
-  <li>database(SQL);</li>
+  <li>Java(POO);</li>
   <li>HTML and CSS.</li>
 </ul>
 You can reach me:
