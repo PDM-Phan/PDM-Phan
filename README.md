@@ -6,6 +6,7 @@ Im quite decent with Python and know basic excel. Im currently learning:
 <ul>
   <li>Java(POO);</li>
   <li>HTML and CSS.</li>
+  <li>PHP</li>
 </ul>
 You can reach me:
 <ul>
